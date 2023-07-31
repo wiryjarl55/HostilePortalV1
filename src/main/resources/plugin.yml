@@ -1,0 +1,4 @@
+name: HostilePortal
+version: '1'
+main: benjamin.boswell.hostileportal.HostilePortal
+api-version: '1.20'
